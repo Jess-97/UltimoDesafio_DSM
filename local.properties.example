@@ -1,0 +1,3 @@
+RESTCOUNTRIES_TOKEN=tu_bearer_token_aqui
+GEONAMES_USER=tu_usuario_geonames
+WEATHERAPI_KEY=tu_api_key_weatherapi
