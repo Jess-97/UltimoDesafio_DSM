@@ -28,3 +28,4 @@ https://drive.google.com/file/d/1Tj9bhqrvVep3f7O5DkM4qmF9EFjukJQy/view?usp=shari
 ## Integrantes
 
 - Jessica Paola Alvarez Sanchez AS241238
+- Geisel Castellanos CF241034
